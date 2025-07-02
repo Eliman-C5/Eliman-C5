@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Insightt<br>💬 Ask me about Frontend Development<br>👨‍💻 All of my projects are available at https://github.com/Eliman-C5?tab=repositories<br>📄 Know about my experiences https://drive.google.com/file/d/1KMC14Y8dlNmmQvbZu_Mjkgy9KvzwOlGy/view?usp=sharing<br>📫 How to reach me eliman1926@gmail.com
+🔭 I’m currently working on Insightt<br>💬 Ask me about Frontend Development<br>👨‍💻 All of my projects are available at https://github.com/Eliman-C5?tab=repositories<br>📄 Know about my experiences [https://drive.google.com/file/d/1KMC14Y8dlNmmQvbZu_Mjkgy9KvzwOlGy/view?usp=sharing](https://drive.google.com/file/d/1rWQ6wx_e1r0BLa6XQA0uFA1Vq3nygrjd/view?usp=sharing)<br>📫 How to reach me eliman1926@gmail.com
 
 
 ## 🌐 Socials:
